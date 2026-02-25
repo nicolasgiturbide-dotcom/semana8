@@ -2,7 +2,7 @@
 
 int main() {
     std::cout << "Hola";
-    std::cout << "Hola \nque \ntal\n";
+    std::cout << "\nHola \nque \ntal\n";
 
 }
 
